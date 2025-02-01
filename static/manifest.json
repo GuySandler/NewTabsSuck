@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "My SvelteKit Extension",
+  "version": "1.0.0",
+  "description": "A browser extension made with SvelteKit",
+  "permissions": ["tabs"],
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

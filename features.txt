@@ -1,0 +1,20 @@
+1. web search
+2. news/RSS
+3. weather
+4. quick links/top sites
+5. ai chatbot?
+6. notes/todo
+7. backgrounds
+8. transalte
+9. image tools
+10. video tools?
+11. file conversion
+12. pdf viewer
+13. stopwatch/alarm
+14. clock
+15. camera
+16. calc and stuff
+17. calander and reminders
+18. player
+19. folders
+20. Recently closed tabs
